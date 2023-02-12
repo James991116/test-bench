@@ -1,0 +1,3 @@
+conda create --name myenv
+conda env list
+conda remove --name myenv --all
